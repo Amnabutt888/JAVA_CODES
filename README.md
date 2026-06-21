@@ -16,9 +16,3 @@ A sleek, lightweight command-line guessing game built with Java. The computer se
 
 *   **Smart Hints:** Tells you if your guess is too high or too low.
 *   **Input Validation:** Prevents crashes from invalid characters or empty inputs..
-
-
-
-## 👤 Author
-
-*   **Your Name** - *Initial Work* - [Amnabutt888](https://github.com)
