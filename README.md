@@ -3,23 +3,10 @@
 A sleek, lightweight command-line guessing game built with Java. The computer selects a random number, and the player tries to guess it with dynamic feedback.
 
 <br />
-![Java Logo](https://githubusercontent.com)
-
-![Java Badge](https://shields.io) ![Terminal Badge](https://shields.io)
-
----
-
 <p align="center">
-  <a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="java" width="80" height="80"/>
-  </a>
+  <img src="https://jsdelivr.net" alt="Java Cup Logo" width="100" height="100"/>
 </p>
 
-<p align="center">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Terminal" />
-</p>
----
 
 ## ✨ Features
 
