@@ -4,12 +4,17 @@ A sleek, lightweight command-line guessing game built with Java. The computer se
 
 <br />
 
+
 <p align="center">
-  <img src="https://shields.io" alt="Java Badge" />
-  <img src="https://shields.io" alt="Status Badge" />
-  <img src="https://shields.io" alt="License Badge" />
+  <a href="https://java.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="java" width="80" height="80"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Terminal" />
+</p>
 ---
 
 ## ✨ Features
